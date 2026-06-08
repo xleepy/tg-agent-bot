@@ -172,4 +172,4 @@ AGENTS.md       working agreement for AI agents
 
 ## License
 
-Personal use. No license granted for redistribution.
+MIT. See [LICENSE](./LICENSE).
