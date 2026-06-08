@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dummy": {
+      "command": "node",
+      "args": ["./scripts/dummy-mcp-server.mjs"]
+    }
+  }
+}
